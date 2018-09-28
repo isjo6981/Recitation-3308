@@ -1,2 +1,2 @@
 Isaiah Jones
-Lab Four - Learning Git Assignment
+Lab Four - Learning Git Assignment: Version Control
